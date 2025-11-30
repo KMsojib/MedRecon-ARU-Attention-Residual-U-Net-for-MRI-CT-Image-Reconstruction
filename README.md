@@ -29,28 +29,26 @@ This architecture is particularly effective for medical image reconstruction.
 
 ---
 
-# 📊 Results (Sample)
+## 📊 Results
 
-| Original | Noisy (0.5) | Reconstructed |
-|----------|--------------|----------------|
-| ![](CT-Original Image.png) | ![](Noisey-CT Image.png) | ![](CT-Reconstructed Image.png) |
+### **MRI Reconstruction Metrics**
 
-### **PSNR / SSIM Summary**
-Brain & MRI image SSIM Train Vlidation & Test Result:
-# Brain MRI Images Result:
-    | PSNR ↑ | SSIM ↑ | Sample | 
-|---------|-----------|-----|
-Train | 27.42 dB | 0.78 | 82 |
-Val | 28.68 dB | 78 | 10 |
-Test| 27.7 dB | 0.75 | 11 |
+| Split | PSNR ↑ | SSIM ↑ | Samples |
+|-------|---------|-----------|----------|
+| Train | 27.42 dB | 0.78 | 82 |
+| Validation | 28.68 dB | 0.78 | 10 |
+| Test | 27.70 dB | 0.75 | 11 |
 
-Brain & MRI image SSIM Train Vlidation & Test Result:
-# Brain MRI Images Result:
-    | PSNR ↑ | SSIM ↑ | Sample | 
-|---------|-----------|-----|
-Train | 29.63 dB | 0.81 | 82 |
-Val | 29.78 dB | 0.84 | 10 |
-Test| 29.63 dB | 0.81 | 11 |
+---
+
+### **CT Reconstruction Metrics**
+
+| Split | PSNR ↑ | SSIM ↑ | Samples |
+|-------|---------|-----------|----------|
+| Train | 29.63 dB | 0.81 | 82 |
+| Validation | 29.78 dB | 0.84 | 10 |
+| Test | 29.63 dB | 0.81 | 11 |
+
 ---
 
 # ✨ Key Highlights (For Scholarship Evaluation)
