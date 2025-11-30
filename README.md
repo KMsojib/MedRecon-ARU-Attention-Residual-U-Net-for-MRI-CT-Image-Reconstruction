@@ -33,19 +33,24 @@ This architecture is particularly effective for medical image reconstruction.
 
 | Original | Noisy (0.5) | Reconstructed |
 |----------|--------------|----------------|
-| ![](D:\H - Project Section\MedRecon-ARU Attention Residual U-Net for MRI & CT Image Reconstruction\CT-Original Image.png) | ![](D:\H - Project Section\MedRecon-ARU Attention Residual U-Net for MRI & CT Image Reconstruction\Noisey-CT Image.png) | ![](dD:\H - Project Section\MedRecon-ARU Attention Residual U-Net for MRI & CT Image Reconstruction\CT-Reconstructed Image.png) |
+| ![](CT-Original Image.png) | ![](Noisey-CT Image.png) | ![](CT-Reconstructed Image.png) |
 
 ### **PSNR / SSIM Summary**
-Your results file (`results.csv`) may include something like:
+Brain & MRI image SSIM Train Vlidation & Test Result:
+# Brain MRI Images Result:
+    | PSNR ↑ | SSIM ↑ | Sample | 
+|---------|-----------|-----|
+Train | 27.42 dB | 0.78 | 82 |
+Val | 28.68 dB | 78 | 10 |
+Test| 27.7 dB | 0.75 | 11 |
 
-| Image | PSNR ↑ | SSIM ↑ |
-|--------|---------|-----------|
-| MRI_01 | 31.2 dB | 0.90 |
-| MRI_02 | 32.8 dB | 0.92 |
-| CT_01  | 29.7 dB | 0.88 |
-
-(Use your actual values.)
-
+Brain & MRI image SSIM Train Vlidation & Test Result:
+# Brain MRI Images Result:
+    | PSNR ↑ | SSIM ↑ | Sample | 
+|---------|-----------|-----|
+Train | 29.63 dB | 0.81 | 82 |
+Val | 29.78 dB | 0.84 | 10 |
+Test| 29.63 dB | 0.81 | 11 |
 ---
 
 # ✨ Key Highlights (For Scholarship Evaluation)
