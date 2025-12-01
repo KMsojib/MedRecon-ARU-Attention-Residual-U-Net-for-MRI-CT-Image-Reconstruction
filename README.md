@@ -56,7 +56,6 @@ This architecture is particularly effective for medical image reconstruction.
 |----------|--------------|----------------|
 | <img src="images/ct_original.png" width="250"/> | <img src="images/ct_noisy.png" width="250"/> | <img src="images/ct_reconstructed.png" width="250"/> |
 
-> To make the images display correctly, put them inside:  
 # ✨ Key Highlights (For Scholarship Evaluation)
 
 - Small-data medical imaging experiment  
