@@ -53,10 +53,10 @@ This architecture is particularly effective for medical image reconstruction.
 ## 🖼️ Reconstruction Samples
 
 | Original | Noisy (0.5) | Reconstructed |
-|----------|--------------|----------------|
-| <img src="D:\H - Project Section\MedRecon-ARU Attention Residual U-Net for MRI & CT Image Reconstruction\images\ct_original.png" width="250"/> | <img src="D:\H - Project Section\MedRecon-ARU Attention Residual U-Net for MRI & CT Image Reconstruction\images\ct_noisy.png" width="250"/> | <img src="D:\H - Project Section\MedRecon-ARU Attention Residual U-Net for MRI & CT Image Reconstruction\images\ct_reconstructed.png" width="250"/> |
+|----------|--------------|---------------|
+| <img src="./images/ct_original.png" width="250"/> | <img src="./images/ct_noisy.png" width="250"/> | <img src="./images/ct_reconstructed.png" width="250"/> |
 
-![test](images/ct_original.png)
+
 
 # ✨ Key Highlights (For Scholarship Evaluation)
 
