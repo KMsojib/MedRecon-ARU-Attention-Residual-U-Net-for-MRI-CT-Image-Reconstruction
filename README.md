@@ -57,7 +57,7 @@ This architecture is particularly effective for medical image reconstruction.
 | ![Original CT Image](./images/ct_original.png) | ![Noisy CT Image](./images/ct_noisy.png) | ![Reconstructed CT Image](./images/ct_reconstructed.png)|
 
 
-# ✨ Key Highlights (For Scholarship Evaluation)
+# ✨ Key Highlighs
 
 - Small-data medical imaging experiment  
 - Effective reconstruction despite only 100 images  
